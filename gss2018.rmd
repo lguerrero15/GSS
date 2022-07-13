@@ -26,6 +26,8 @@ source("GrabData.R")
 The data in the dataframe GSSdata is from the 2018 General Social Survey. The first blocks of R-code has selected down a subset of the data to just 16 variables. It has further removed unwanted factor levels in much of the data. Examine the code in the GrabData.R file to see what it is doing. Some of the variables are categorical and others are numerical. Be sure to do a variable analysis before tackling each question.  
 First question - Is opinion on the death penalty (CAPPUN) independent of gun ownership (OWNGUN)?
 
+This branch is q1
+
 $H_0$: there's no relationship between opinion on the death penalty and gun ownership.
 
 $H_A$: there is relationship between opinion on the death penalty and gun ownership.
@@ -69,6 +71,8 @@ Is there a difference in years of education (EDUC) between the those who did or 
 
 ## Methods
 
+
+this is q2---------
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
 
 ##Results
@@ -97,6 +101,9 @@ Determine if a persons performance on the wordsum test (WORDSUM) is independent 
 
 ## Methods
 
+
+
+q3-----
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
 
 ##Results
